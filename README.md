@@ -1,7 +1,7 @@
-What Is OWASP?
+# What Is OWASP?
 OWASP, or the Open Web Application Security Project, is a nonprofit organization focused on software security. Their projects include a number of open-source software development programs and toolkits, local chapters and conferences, among other things. One of their projects is the maintenance of the OWASP Top 10, a list of the top 10 security risks faced by web applications.
 
-OWASP Top 10 Vulnerabilities
+# OWASP Top 10 Vulnerabilities
 The OWASP Top 10 is a list of the 10 most common web application security risks. By writing code and performing robust testing with these risks in mind, developers can create secure applications that keep their users’ confidential data safe from attackers.
 
 1. Injection
